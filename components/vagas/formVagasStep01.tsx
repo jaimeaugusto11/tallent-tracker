@@ -262,8 +262,8 @@ export default function FormVagasStep01() {
               <h3 className="font-semibold dark:text-white">Boas Práticas:</h3>
               <p>
                 Use os nomes mais comuns para as vagas que você for anunciar.
-                Exemplo: use "Programador PHP Sênior" ao invés de "Programador
-                Sênior"
+                Exemplo: use Programador PHP Sênior ao invés de Programador
+                Sênior
               </p>
               <br />
               <h3 className="font-semibold">Código de Controle Interno:</h3>
@@ -370,15 +370,15 @@ export default function FormVagasStep01() {
               <p>
                 Insira o local de trabalho da vaga para que atraia candidatos
                 preferencialmente na região. Caso a vaga seja 100% remota, faça
-                a marcação de "A Vaga é Inteiramente Remota"
+                a marcação de A Vaga é Inteiramente Remota
               </p>
               <br />
               <p>
                 {" "}
                 Nos casos em que a vaga é Híbrida (Presencial e Remoto), marque
-                a opção "Híbrido". E, quando a vaga aceitar candidatos tanto
-                presenciais quanto remotos, marque a opção "Presencial ou
-                Remoto".
+                a opção Híbrido. E, quando a vaga aceitar candidatos tanto
+                presenciais quanto remotos, marque a opção Presencial ou
+                Remoto.
               </p>
             </div>
           </div>
@@ -552,13 +552,13 @@ export default function FormVagasStep01() {
               <p>
                 -Não utilize emojis na descrição da vaga, pois o editor não os
                 suporta.
-              </p>{" "}
+              </p>
               <br />
               <p>-Insira ao menos 400 caracteres na descrição da vaga</p> <br />
               <p>
                 -Use opções de formatação, como negrito, itálico e sublinhadom
                 para tornar o texto mais fácil de ler
-              </p>{" "}
+              </p>
               <br />
               <p>-Evite linguagem discriminatória</p> <br />
               <h3 className="font-semibold">Gerar Descrição da Vaga:</h3>
@@ -567,20 +567,20 @@ export default function FormVagasStep01() {
                 descrição da sua vaga baseada no título que você escolheu.
                 Atenção! Lembre-se sempre de conferir se a descrição gerada pela
                 Rê faz sentido para sua vaga.
-              </p>{" "}
+              </p>
               <br />
               <p>
                 A Geração de Descrições de Vagas com IA estão em BETA. Portanto,
                 pode ser que algumas descrições não saiam exatamente como
                 esperado. Revise-as sempre antes de publicar.
-              </p>{" "}
+              </p>
               <h3 className="font-semibold">Carga Horária:</h3>
               <p>
                 Caso você não deseje divulgar a carga horária, ou não faça
-                sentido exibir essa informação, escreva "0" (zero). Dessa forma,
+                sentido exibir essa informação, escreva 0 (zero). Dessa forma,
                 a carga horária não será exibida na página da vaga. Ideal para
                 vagas PJ.
-              </p>{" "}
+              </p>
               <br />
             </div>
           </div>
@@ -646,27 +646,27 @@ export default function FormVagasStep01() {
           <div className="w-3/6 p-2  space-y-10 hidden lg:block py-10">
             <div className="p-5 bg-transparent">
               <p>
-                {" "}
+                
                 <span className="font-semibold">Boas Práticas:</span>
                 Use os nomes mais comuns para as vagas que você for anunciar.
-                Exemplo: use "Programador PHP Sênior" ao invés de "Programador
-                Sênior"
-              </p>{" "}
+                Exemplo: use Programador PHP Sênior ao invés de Programador
+                Sênior
+              </p>
               <br />
               <p>
-                {" "}
+                
                 <span className="font-semibold">Regime de Contratação:</span>
                 Carteira assinada ou outro tipo de contrato?
-              </p>{" "}
+              </p>
               <br />
               <p>
-                {" "}
+                
                 <span className="font-semibold">
                   Análise de Média Salarial:
                 </span>
                 A Tally (IA) analisa dados de mercado em relação à vaga proposta
                 e a localização.
-              </p>{" "}
+              </p>
               <br />
               <div>
                 <Button
